@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojas98.ojas98" />
 
-<h1 align ="center">
+<h1 align ="center"; color = "#C0F700">
    Hi There 🤝
 </h1>
 
