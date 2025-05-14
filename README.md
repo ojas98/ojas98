@@ -65,19 +65,16 @@
 
 ---
 
-## 📊 Projects Worth Checking Out
+## 📊 Projects Worth Checking Out 
 
-- 🚗 [**Uber NYC Trip Analysis (Power BI)**](https://github.com/ojas98/Uber-Trip-Analysis)  
+- 🚗 [**Uber NYC Trip Analysis (Power BI)**](https://github.com/ojas98/UBER_analysis_PowerBI)  
   *Visualizes ride bookings, trip durations, and revenue insights to support operational decisions.*
 
-- 🌸 [**Ferns and Petals Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/Ferns-and-Petals-Sales-Dashboard)  
+- 🌸 [**Ferns and Petals Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/FernsandPetals_Sales_Analysis_Excel_Dashboard)  
   *Breaks down sales trends, customer behavior, and top-performing products.*
 
-- 🛒 [**Zepto Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/Zepto-Retail-Sales-Dashboard)  
+- 🛒 [**Zepto Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/Zepto_Sales_Analysis_Excel_Dashboard)  
   *Analyzes outlet performance, inventory, and customer satisfaction.*
-
-- 🧠 [**Lead Score Pro (ML Model)**](https://github.com/ojas98) *(coming soon)*  
-  *Predicts hot leads using machine learning to boost sales efficiency in EdTech.*
 
 ---
 
