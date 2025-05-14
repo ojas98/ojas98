@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojas98.ojas98" />
 
 <h1 align="center">
-  Hey there! I'm Ojas Balsotra 👋
+  Hey there! I'm Ojas Balsotra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=25&pause=1000&color=F7D100&center=true&vCenter=true&width=700&lines=Analyst+%7C+Product+Strategist+%7C+Data+Enthusiast" />
@@ -22,11 +23,13 @@
 
 ## 🧠 What I Do
 
-- Analyze customer and sales data to generate actionable insights  
-- Build dashboards to track KPIs and improve operational visibility  
-- Conduct A/B testing and funnel analysis for product growth  
-- Collaborate cross-functionally to design and deploy scalable solutions  
-- Apply machine learning techniques for segmentation and lead scoring
+- Worked across the full **Software Development** & **Data science and Business analysis lifecycle**.
+- Build interactive **Dashboards and reports** in Power BI and Excel to monitor KPIs and drive strategic decisions.  
+- Analyze customer behavior, product metrics, and sales trends to support **data-driven business growth**. 
+- Conducted **A/B testing**, funnel analysis, and user behavior tracking to optimize product performance. 
+- Collaborate with cross-functional teams (Tech, Product, Marketing) to design and deliver scalable, insight-driven solutions. 
+- Apply and experiment with **ML techniques** such as clustering, regression, and lead scoring in real-world business contexts. 
+- Continuously upskilling in **Data science tools, Business problem-solving, and Product analytics** — because learning never stops🚀. ( Onwards and Upwards ) 
 
 ---
 
