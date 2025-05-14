@@ -1,71 +1,140 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ojas98.ojas98" />
 
 <h1 align="center">
-  Hey there! 👋 I'm Ojas Balsotra
+  Hey there! I'm Ojas Balsotra 👋
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=35&pause=1000&color=C0F700&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Dashboard+Creator+%7C+Power+BI+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Grape+Nuts&size=35&pause=1000&color=F7D100&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Product+Strategist+%7C+Power+BI+Enthusiast" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 📌 About Me  
 
-- 🎓 Master’s in Data Science  
-- 📊 Passionate about transforming data into actionable insights  
-- 🧠 Skilled in **Excel**, **Power BI**, and **Business Analysis**
-- 🎯 Currently looking for opportunities in **Data Analysis**, **Product Management**, and **Business Analysis**
-- 🧪 Building **DataFuel with Ojas** – A micro-learning initiative for data interview prep
-
----
-
-## 🛠️ Tech Stack
-
-| Tool | Description |
-|------|-------------|
-| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | Data Cleaning, Dashboards |
-| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | Interactive Visualizations |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | Querying & Analysis |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) | Data Analysis |
+🎯 A results-driven analyst and product thinker with 4 years of experience transforming ideas into real-world impact.  
+🏆 Led development and data-driven optimization for flagship platforms like Byju’s Live Classes.  
+🛠️ Adept at using **Power BI**, **Excel**, **Python**, and **SQL** to build dashboards and drive decisions.  
+🔍 Passionate about using data to enhance user engagement, streamline operations, and fuel business growth.  
+📍 Based in Mumbai – open to exciting roles in **Data Analysis**, **Business Analysis**, and **Product Management**.
 
 ---
 
-## 📊 Featured Projects
+## 🧠 What I Do
 
-- 🌹 [**Ferns and Petals Sales Analysis**](https://github.com/ojas98/Ferns-and-Petals-Sales-Dashboard)  
-  *An Excel dashboard to analyze product trends, customer behavior, and seasonal demand.*
-
-- 🚗 [**Uber Trip Analysis (Power BI)**](https://github.com/ojas98/Uber-Trip-Analysis)  
-  *An interactive Power BI dashboard to track bookings, revenue, and trip efficiency.*
-
-- 🛒 [**Zepto Retail Sales Dashboard**](https://github.com/ojas98/Zepto-Retail-Sales-Dashboard)  
-  *Retail analytics dashboard focusing on outlet performance and inventory distribution.*
+- Analyze customer and sales data to generate actionable insights  
+- Build dashboards to track KPIs and improve operational visibility  
+- Conduct A/B testing and funnel analysis for product growth  
+- Collaborate cross-functionally to design and deploy scalable solutions  
+- Apply machine learning techniques for segmentation and lead scoring
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojas98&show_icons=true&theme=tokyonight&hide_border=true" alt="Ojas's GitHub stats" />
+### 👨‍💻 **Senior Developer – WhiteHat Jr  (2020–2024)**
+
+#### 🚀  Product + Data + Business Analysis + Software  Workflow:
+
+- 🧩 **Early-Stage Product Involvement**  
+  Transitioned from a Technical Support role to Developer, gaining deep exposure to both technology and business teams. Contributed to launching new offerings by building data-backed tools and dashboards used across departments.
+
+- 👨‍🏫 **Insight Delivery & Cross-Functional Collaboration**  
+  Shared findings with marketing, content, and product teams to refine user journeys. Insights influenced strategic decisions for feature releases and targeted interventions on the learning platform.
+
+- 📋 **Requirement Gathering & Business Understanding**  
+  Interacted with product and CX teams to understand key business challenges, user pain points, and feature requests for BYJU's U.S. platform. Collected detailed requirements for performance tracking, student behavior analytics, and conversion funnel optimization.
+
+- 🧱 **Data Structuring & Analytics Integration**  
+  Embedded analytics within interactive applets and web modules to monitor web traffic, session duration, and navigation flows. Used Excel and SQL to structure raw data for insight generation across engagement and retention metrics.
+
+- 📊 **Dashboard Development**  
+  Designed and deployed Power BI dashboards to visualize session drop-offs, instructor performance, attendance trends, and student interaction metrics — supporting real-time decision-making.
+
+- 🧪 **A/B Testing & Experimentation**  
+  Conducted A/B testing on interactive content and UI changes; generated measurable insights that improved YouTube Live engagement and informed UX redesigns for better conversion from trial to paid users.
+
+- ⚙️ **End-to-End Development & Deployment**  
+  Managed the complete lifecycle of over 50 interactive applets — from ideation and UI prototyping to QA testing and cross-platform publishing.
+
+- 🔁 **Agile Workflow & Version Control**  
+  Worked in agile sprints using Jira; adopted Git best practices to streamline collaborative development and maintain high code quality and delivery velocity.
+
+---
+
+## 📊 Projects Worth Checking Out
+
+- 🚗 [**Uber NYC Trip Analysis (Power BI)**](https://github.com/ojas98/Uber-Trip-Analysis)  
+  *Visualizes ride bookings, trip durations, and revenue insights to support operational decisions.*
+
+- 🌸 [**Ferns and Petals Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/Ferns-and-Petals-Sales-Dashboard)  
+  *Breaks down sales trends, customer behavior, and top-performing products.*
+
+- 🛒 [**Zepto Sales Analysis (Excel Dashboard)**](https://github.com/ojas98/Zepto-Retail-Sales-Dashboard)  
+  *Analyzes outlet performance, inventory, and customer satisfaction.*
+
+- 🧠 [**Lead Score Pro (ML Model)**](https://github.com/ojas98) *(coming soon)*  
+  *Predicts hot leads using machine learning to boost sales efficiency in EdTech.*
+
+---
+
+## 🛠 Tech Toolbox  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Let’s Connect!
+## 🧩 Soft Skills
 
-- [LinkedIn](https://www.linkedin.com/in/ojas-balsotra/)
-- [Instagram](https://www.instagram.com/ojas.balsotra/)
-- ✉️ Email: balsotraojas@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I love **cooking**, exploring **gardening**, and creating things that make data more **digestible and impactful**.  
-Let's connect and make numbers speak louder than words! 📉📢
+- Problem Solving  
+- Strategic Thinking  
+- Communication  
+- Multitasking  
+- Analytical Mindset  
+- Team Collaboration  
+- Time Management  
 
 ---
 
-⭐ *If you like what I do, consider giving my repositories a star!*
+## 🎓 Education
 
+🎓 **M.Sc. in Data Science** – Liverpool John Moores University (2024)  
+🎓 **EPGP in Business Analytics** – IIIT Bangalore (2023)  
+🎓 **B.E. in Electronics & Telecommunication** – MGM College of Engineering, Mumbai (2019)
+
+---
+
+## 🏅 Awards & Recognition
+
+⭐ *Star Performer – WhiteHat Jr  (2022)*  
+🏅 *IEEE Dedicated Service Award (2019)*
+
+---
+
+## 🌱 Hobbies & Interests
+
+🌿 Gardening | 🍳 Cooking | 🧗 Trekking  
+📚 Learning Gen AI and Prompt Engineering  
+🎯 Building and Sharing quick tips via **Fuel 4 Data** - Fueling Data Science Learning, One Cheat Sheet at a Time.
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [Portfolio](https://ojasbalsotra.netlify.app)  
+- 💼 [LinkedIn](https://linkedin.com/in/ojasbalsotra)  
+- 📬 Email: balsotraojas@gmail.com  
+
+---
+
+⭐ *If you like what I do, consider starring my repositories and dropping a message. Always happy to connect with data enthusiasts!*
