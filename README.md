@@ -55,7 +55,7 @@
   Designed and deployed Power BI dashboards to visualize session drop-offs, instructor performance, attendance trends, and student interaction metrics — supporting real-time decision-making.
 
 - 🧪 **A/B Testing & Experimentation**  
-  Conducted A/B testing on interactive content and UI changes; generated measurable insights that improved YouTube Live engagement and informed UX redesigns for better conversion from trial to paid users.
+  Conducted A/B testing on interactive content, generated measurable insights that improved Live engagement in classes and informed UX redesigns for better conversion from trial to paid users.
 
 - ⚙️ **End-to-End Development & Deployment**  
   Managed the complete lifecycle of over 50 interactive applets — from ideation and UI prototyping to QA testing and cross-platform publishing.
