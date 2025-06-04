@@ -28,7 +28,6 @@
 - Analyze customer behavior, product metrics, and sales trends to support **data-driven business growth**. 
 - Conducted **A/B testing**, funnel analysis, and user behavior tracking to optimize product performance. 
 - Collaborate with cross-functional teams (Tech, Product, Marketing) to design and deliver scalable, insight-driven solutions. 
-- Apply and experiment with **ML techniques** such as clustering, regression, and lead scoring in real-world business contexts. 
 - Continuously upskilling in **Data science tools, Business problem-solving, and Product analytics** — because learning never stops🚀. ( Onwards and Upwards ) 
 
 ---
